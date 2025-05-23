@@ -1,5 +1,3 @@
-//URL = "jdbc:mysql://127.0.0.1:3306/DiseaseSystemDB";
-//PASSWORD = "n@stini0192!";
 
 package db;
 
@@ -7,9 +5,9 @@ import java.sql.*;
 
 public class DBConnection {
     // Database connection details
-    private static final String URL = "jdbc:mysql://127.0.0.1:3306/DiseaseSystemDB";
-    private static final String USER = "root";
-    private static final String PASSWORD = "n@stini0192!";
+    private static final String URL = "jdbc:mysql://ip:portal/DiseaseSystemDB";
+    private static final String USER = "myusername";
+    private static final String PASSWORD = "mypassword";
     private static Connection connection;
 
     // Method to establish a connection to the database

@@ -1,0 +1,25 @@
+user_id,disease_id,country_id,comment,date
+1,13,3,"United States: Record numbers during the winter wave, now declining.",2020-12-05
+1,14,4,"Brazil: Steady improvement after an initial surge in cases.",2021-01-10
+2,15,5,"Russia: New variants caused fluctuations, but overall cases stabilized.",2021-04-22
+1,11,6,"Greece: Strict measures kept case numbers in check.",2021-07-18
+1,12,7,"Pakistan: Rapid vaccination rollout led to a significant drop in cases.",2021-09-30
+2,13,8,"Syria: Limited testing capacity resulted in underreported figures.",2021-11-11
+2,14,9,"Germany: High vaccination coverage and social distancing helped control the outbreak.",2022-02-14
+1,15,10,"Mexico: Rising cases during a holiday period, followed by sharp declines.",2022-04-25
+2,11,1,"China: Consistent low transmission with effective public health measures.",2022-06-15
+2,12,2,"India: Booster shots and widespread testing improved overall control.",2022-08-10
+1,13,3,"United States: Data indicates a gradual decline in new infections.",2022-10-05
+2,14,4,"Brazil: Regional disparities observed; some areas see higher numbers.",2023-01-20
+2,15,5,"Russia: Continued surveillance reveals sporadic clusters.",2023-03-11
+1,11,6,"Greece: Aggressive contact tracing helped reduce spread significantly.",2023-05-08
+2,12,7,"Pakistan: Economic reopening led to a temporary spike in cases.",2023-07-22
+1,13,8,"Syria: Despite challenges, public health interventions kept numbers moderate.",2023-09-19
+1,14,9,"Germany: Low case numbers persist; focus on vaccination remains key.",2023-11-03
+2,15,10,"Mexico: Reports show declining positivity rates and improved recovery rates.",2024-01-15
+
+
+
+
+
+

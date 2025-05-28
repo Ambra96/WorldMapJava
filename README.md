@@ -50,6 +50,5 @@ This allows bulk insertion of disease case records into the database.
 ---
 
 ## 🙏 Thank You!
-
-Developed by **Nastini Ambra**  
+ 
 If you encounter any issues or have suggestions, feel free to contribute or reach out!
